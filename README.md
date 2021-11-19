@@ -36,13 +36,13 @@ Robot has a process to Email clients, based on their interests, if there are dis
 - [x] Robot should be able to record any items that were out of stock or not found.
 - [x] Robot should be able to add clients to the existing client list and take in their shopping order.
 - [x] Robot should be able to add more vendors in the existing vendor collection.
-- [x] Robot should be able to take in account discounts noted by the vendors.
+- [ ] Robot should be able to take in account discounts noted by the vendors.
 
 ## Stretch Goals
 - [ ] Sending emails to clients about their shopping order
-- [x] Notify clients about vendor discounts/sales
+- [ ] Notify clients about vendor discounts/sales
 - [ ] Email vendors about out of stock items
-- [x] Restock inventory for vendors
+- [ ] Restock inventory for vendors
 - [ ] Any other extra features that would improve UX
 
 ## Tech Stack

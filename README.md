@@ -1,5 +1,5 @@
-# Yu_Timothy_Bradburn_Kenneth_P0
-Project0 Repository for Timothy Yu and Kenneth Bradburn
+# Team4-P0 Plage and Izer
+Project0 Repository for Plage and Izer
 Update as of 10/13/2021
 
 Robot adds a vendor as long as the information given to the robot in an Excel sheet matches a specific format. Our rationale being if this is for a store or webpage that information could be translated from HTML easily.

@@ -47,4 +47,3 @@ Robot has a process to Email clients, based on their interests, if there are dis
 
 ## Tech Stack
 - UiPath Studio
-# Team4-P0
